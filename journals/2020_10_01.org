@@ -7,6 +7,9 @@
 ** 遊戯
 ** こっちを試しに使ってみる。
 ** [[Roam Research]]と何が違うのかしら？
-** #+BEGIN_WARNING
-せせら笑う
-** #+END_WARNING
+**
+#+BEGIN_WARNING
+## せせら笑う 
+#+END_WARNING
+** ((殺されなかった人々へ))
+**
