@@ -7,3 +7,6 @@
 ** 遊戯
 ** こっちを試しに使ってみる。
 ** [[Roam Research]]と何が違うのかしら？
+** #+BEGIN_WARNING
+せせら笑う
+** #+END_WARNING
